@@ -148,3 +148,7 @@ Acknowledgements
 ----------------
 
 The architecture of this project was based on the Mongo-Tomcat-Sessions project found at https://github.com/dawsonsystems/Mongo-Tomcat-Sessions
+
+Blog 
+----------------
+http://www.dzone.com/links/r/load_balance_tomcat_with_nginx_and_store_sessions.html
